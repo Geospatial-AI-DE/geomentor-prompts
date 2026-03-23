@@ -9,6 +9,13 @@ GeoMentor Prompts is a **comprehensive geospatial AI ecosystem** that combines t
 
 2. **Location MCP Server**: A comprehensive location-based services implementation using the Model Context Protocol (MCP), providing geocoding, routing, elevation, places search, and map visualization capabilities.
 
+## Scope and Usage
+This library is published as **free and open‑source software** under the `Apache‑2.0` licence. It is developed and maintained by an individual without any commercial intent – no fees, no monetisation, and no donations are solicited or accepted.
+
+**For the purposes of the EU Cyber Resilience Act (Regulation (EU) 2024/2847), this software is NOT “made available on the market in the course of a commercial activity” (see Article 3(22) and Recitals 15, 18). Therefore, the obligations that apply to manufacturers (such as CE marking, conformity assessment, and formal vulnerability handling) do not apply to the provision of these library.**
+
+Anyone who integrates this library into their own commercial products or services are responsible for ensuring that their overall system complies with all applicable regulations, including the Cyber Resilience Act where relevant.
+
 ## What You'll Find
 
 ### 📝 **GeoMentor Prompts Library**
